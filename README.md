@@ -9,12 +9,13 @@ Installation
 
 1. Download the [latest release](https://github.com/philippbosch/jquery.mobile.swipe/releases).
 2. Unzip.
-3. Copy `jquery.mobile.swipe.js` to your project's javascript directory.
-4. Include the file in your HTML code, e.g. `<script src="js/jquery.mobile.swipe.min.js"></script>` after the jQuery Mobile JavaScript, like so:
+3. Copy `swipe.js` and `jquery.mobile.swipe.js` to your project's javascript directory.
+4. Include both files in your HTML code after the jQuery Mobile JavaScript, like so:
 
 ```html
 <script src="js/jquery.min.js"></script>
 <script src="js/jquery.mobile.min.js"></script>
+<script src="js/swipe.js"></script>
 <script src="js/jquery.mobile.swipe.js"></script>
 ```
 
