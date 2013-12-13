@@ -1,0 +1,21 @@
+{
+  "name": "jquery.mobile.swipe",
+  "version": "0.1.0",
+  "description": "Swipe.js widget for jQuery Mobile",
+  "main": "jquery.mobile.swipe.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/philippbosch/jquery.mobile.swipe.git"
+  },
+  "keywords": [
+    "jquery",
+    "mobile",
+    "swipe",
+    "swipejs"
+  ],
+  "author": "Philipp Bosch <hello@pb.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/philippbosch/jquery.mobile.swipe/issues"
+  }
+}
